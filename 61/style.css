@@ -1,0 +1,131 @@
+#q{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 600px;
+ 	margin-top: 100px;	
+}
+#w{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 700px;
+ 	margin-top: 120px;	
+ 	transform: rotate(30deg);
+}
+#e{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 770px;
+ 	margin-top: 200px;	
+ 	transform: rotate(60deg);
+}
+#r{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 800px;
+ 	margin-top: 290px;	
+ 	transform: rotate(90deg);
+}
+#t{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 770px;
+ 	margin-top: 380px;	
+ 	transform: rotate(120deg);
+}
+#y{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 700px;
+ 	margin-top: 440px;	
+ 	transform: rotate(150deg);
+}
+#u{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 600px;
+ 	margin-top: 470px;	
+ 	transform: rotate(180deg);
+}
+#i{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 500px;
+ 	margin-top: 450px;	
+ 	transform: rotate(210deg);
+}
+#o{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 430px;
+ 	margin-top: 380px;	
+ 	transform: rotate(240deg);
+}
+#p{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 400px;
+ 	margin-top: 290px;	
+ 	transform: rotate(270deg);
+}
+#a{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 430px;
+ 	margin-top: 200px;	
+ 	transform: rotate(300deg);
+}
+#s{
+	float: left;
+	width: 25px;
+	height: 150px;	
+	border-radius: 25px;
+	background-color: #fff;
+	position: fixed;
+ 	margin-left: 500px;
+ 	margin-top: 120px;	
+ 	transform: rotate(330deg);
+}

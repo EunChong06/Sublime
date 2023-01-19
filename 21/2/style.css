@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: gray;
+}
+.q{
+	float: left;	
+	width: 20%;
+	height: 400px;
+	border-bottom-right-radius:25px; 
+	background-color: #fff;
+}
+.w{
+	padding:10px;
+}
+.e{
+	padding:10px;
+}
+.r{
+	margin-left: 10px;
+	border-style: solid;
+	border-color: green;
+	margin-right: 10px;
+}
+.r input{
+	width: 100%
+}
+.t{
+	margin-top: 10px;
+	padding: 10px;
+}

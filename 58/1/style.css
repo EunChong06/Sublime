@@ -1,0 +1,32 @@
+#q{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: blue;
+	border-radius: 50%;
+	margin-left: 550px;
+}
+#w{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	border-radius: 50%;
+	margin-left: 10px;
+}
+#e{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: yellow;
+	border-radius: 50%;
+	margin-left: 10px;
+}
+#r{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: green;
+	border-radius: 50%;
+	margin-left: 10px;
+}

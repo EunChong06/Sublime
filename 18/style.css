@@ -1,0 +1,58 @@
+body{
+	background-image: url(https://wallpaperaccess.com/full/58330.jpg);
+}
+
+*{
+	box-sizing: border-box;
+}
+.s{
+	float: left;
+	height: 300px;
+	width: 300px;
+	background-color: #fff;	
+	border-radius: 10px;
+	border-style: solid;
+	border-color:blue;
+	margin-top: 200px;
+	margin-left: 450px;
+}
+.text{
+	margin-top: 30px;
+	margin-left: 120px;
+	color: blue;
+}
+.table{
+	margin-top: 30px;
+	padding-left:60px;
+}
+.tabl{
+	margin-top: 5px;
+	padding-left:60px;
+}
+.button{
+	background-color: blue;
+	color: white;
+	float: left;
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	margin-left: 100px;
+	margin-top: 10px;
+	padding-left:30px; 
+	padding-top: 10px;
+
+}
+.button:hover{
+	background-color: red;
+	border-style: solid;
+	border-color: blue;
+
+}
+.href{
+	color: blue;
+	margin-top: 80px;
+	margin-left: 30px;
+}
+.href:hover{
+	color: red;
+}

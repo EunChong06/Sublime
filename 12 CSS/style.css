@@ -1,0 +1,41 @@
+.header{
+	float: left;
+	width: 100%;
+	
+	text-align: right;
+}
+.header a{
+	color:red;
+}
+.nav{
+	float: left;
+	width: 100%;
+}
+.nav a{
+	display: block;
+	color:green;
+}
+.all{
+	float: left;
+	width: 35%;
+	margin-left: 350px;
+
+}
+.aaa{
+	display: inline-block;
+	width: 49%;
+	color: green;
+}
+.aaa1{
+	display: inline-block;
+	width: 49%;
+	color: red;
+}
+.aaa2{
+	display: inline-block;
+	width: 49%;
+}
+.aaa3{
+	display: inline-block;
+	width: 49%;
+}

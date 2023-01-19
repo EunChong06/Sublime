@@ -1,0 +1,37 @@
+*{
+	box-sizing:border-box;
+}	
+.q{
+	float: left;
+	width: 30%;
+	height: 200px; 
+}
+.w{
+	float: left;
+	width: 30%;
+	height: 200px;
+}
+.e{
+	float: left;
+	width: 30%;
+	height: 200px;
+}
+.r{
+	float:left;
+	width: 30%;
+	height: 200px;
+}
+@media (max-width: 600px){
+	.q{
+		width: 100%;
+	}
+	.w{
+		width: 100%;
+	}
+	.e{
+		width: 100%;
+	}
+	.r{
+		width: 100%;
+	}
+}

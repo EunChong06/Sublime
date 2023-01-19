@@ -1,0 +1,56 @@
+#box{
+	transform-style: preserve-3d;
+	margin-left: 100px;
+	margin-top: 100px;
+	width: 100px;
+	height: 100px;
+}
+#front{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	background-color: red;
+	transform: rotateX(0deg) translateZ(50px);
+}
+#left{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateY(90deg) translateZ(-50px);
+	background-color: orange;
+}
+#right{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateY(90deg) translateZ(50px);
+	background-color: yellow;
+}
+#top{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateX(90deg) translateZ(50px);
+	background-color: green;
+}
+#bottom{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateX(90deg)
+				translateZ(-50px);
+	background-color: blue;
+}
+#back{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateX(0deg) translateZ(-50px);
+	background-color: purple;
+}

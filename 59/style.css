@@ -1,0 +1,40 @@
+#q{
+	float: left;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: fixed;
+	margin-top: 100px;
+	margin-left: 500px;
+	background-color: white;
+}
+#w{
+	float: left;
+	width: 200px;
+	height: 20px;
+	margin-top: 150px;
+	margin-left: 700px;
+	opacity: 0.1;
+	position: fixed;
+	background-color: white;
+}
+#e{
+	float: left;
+	width: 200px;
+	height: 20px;
+	margin-top: 150px;
+	margin-left: 700px;
+	opacity: 0.1;
+	position: fixed;
+	background-color: white;
+}
+#r{
+	float: left;
+	width: 200px;
+	height: 20px;
+	margin-top: 150px;
+	margin-left: 700px;
+	opacity: 0.1;
+	position: fixed;
+	background-color: white;
+}

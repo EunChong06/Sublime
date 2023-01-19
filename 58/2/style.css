@@ -1,0 +1,45 @@
+#cup{
+	float: left;
+	margin-top:200px;
+	margin-left: 550px;
+}
+#q{
+	float: left;
+	position: fixed;
+	width: 20px;
+	height: 20px;
+	margin-top: 200px;
+	margin-left: 665px;
+	border-radius: 50%;
+	
+}
+#w{
+	float: left;
+	position: fixed;
+	width: 20px;
+	height: 20px;
+	margin-top: 200px;
+	margin-left: 660px;
+	border-radius: 50%;
+	opacity: 0.5;
+}
+#e{
+	float: left;
+	position: fixed;
+	width: 20px;
+	height: 20px;
+	margin-top: 200px;
+	margin-left: 650px;
+	border-radius: 50%;
+	opacity: 0.5;
+}
+#r{
+	float: left;
+	position: fixed;
+	width: 20px;
+	height: 20px;
+	margin-top: 200px;
+	margin-left: 670px;
+	border-radius: 50%;
+	opacity: 0.5;
+}

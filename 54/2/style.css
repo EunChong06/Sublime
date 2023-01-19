@@ -1,0 +1,37 @@
+#car{
+	float: left;
+	margin-top: 500px;
+}
+#black{
+	position: fixed;
+	margin-top: 200px;
+	margin-left: 800px;
+	float: left;
+	width: 100px;
+	height: 270px;
+	border-radius: 50px;
+	background-color: black;
+}
+#red{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: grey;
+	border-radius: 50%;
+}
+#yellow{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: grey;
+	border-radius: 50%;
+}
+#green{
+	float: left;
+	width: 50px;
+	height: 50px;
+	background-color: grey;
+	border-radius: 50%;
+}
+
+

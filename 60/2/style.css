@@ -1,0 +1,65 @@
+#all{
+	float: left;
+	width: 400px;
+	height: 450px;
+}
+#q{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: red;
+	position: fixed;
+	margin-top: 0px;
+	margin-left: 170px;
+}
+#w{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: orange;
+	position: fixed;
+	margin-top: 100px;
+	margin-left: 0px;
+}
+#e{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: yellow;
+	position: fixed;
+	margin-top: 300px;
+	margin-left: 0px;
+}
+#r{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: green;
+	position: fixed;
+	margin-top: 400px;
+	margin-left: 170px;
+}
+#t{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: blue;
+	position: fixed;
+	margin-top: 100px;
+	margin-left: 350px;
+}
+#y{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-color: purple;
+	position: fixed;
+	margin-top: 300px;
+	margin-left: 350px;
+}

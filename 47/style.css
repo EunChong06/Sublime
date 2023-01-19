@@ -1,0 +1,31 @@
+#q{
+	float: left;
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	margin-left: 100px;
+	margin-top: 250px;
+}
+#e{
+	float: left;
+	height: 150px;
+	width: 150px;
+	background-color: pink;
+	margin-top:500px;
+}
+#w{
+	float: left;
+	height: 150px;
+	width: 150px;
+	background-color: orange;
+	margin-left: 100px;
+}
+#r{
+	float: left;
+	height: 150px;
+	width: 150px;
+	background-color: blue;
+	margin-top: 250px;
+	margin-left: 100px;
+
+}

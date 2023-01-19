@@ -1,0 +1,18 @@
+#box{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	border: 1px solid;
+}
+#box1{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	border: 1px solid;
+}
+#box2{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	border: 1px solid;
+}

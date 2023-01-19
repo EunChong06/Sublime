@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+}
+#box{
+	float: left;
+	border: 1px solid;
+	width: 150px;
+	height: 150px;
+	background-color: red;
+}
+#box1{
+	float: left;
+	border: 1px solid;
+	width: 150px;
+	height: 150px;
+	background-color: green;
+	margin-left: 10px;
+}
+#box2{
+	float: left;
+	border: 1px solid;
+	width: 150px;
+	height: 150px;
+	background-color: blue;
+	margin-left: 10px;
+}

@@ -1,0 +1,199 @@
+#dice{
+	transform-style: preserve-3d;
+	width: 100px;
+	height: 100px;
+	
+}
+#front{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	background-color: #fff;
+	transform: rotateX(0deg) translateZ(50px);
+	border: 5px solid;
+}
+#left{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateY(90deg) translateZ(-50px);
+	background-color:  #fff;
+	border: 5px solid;
+}
+#right{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateY(90deg) translateZ(50px);
+	background-color:  #fff;
+	border: 5px solid;
+}
+#top{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateX(90deg) translateZ(50px);
+	background-color: #fff;
+	border: 5px solid;
+}
+#bottom{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateX(90deg) translateZ(-50px);
+	background-color: #fff;
+	border: 5px solid;
+}
+#back{
+	float: left;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	transform: rotateX(0deg) translateZ(-50px);
+	background-color: #fff;
+	border: 5px solid;
+}
+#dot1{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+#dot2{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#dot3{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+
+}
+#dot4{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+
+}
+#dot5{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+
+}
+#dot6{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+
+}
+#dot7{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+#dot8{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+#dot9{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+#dot10{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+#dot11{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+}#dot12{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot13{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot14{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot15{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot16{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot17{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot18{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot19{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}#dot20{
+	float: left;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background-color: black;
+}
+
